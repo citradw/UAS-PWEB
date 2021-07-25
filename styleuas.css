@@ -1,0 +1,166 @@
+.body{
+    background-image: url(OIP.jpg);
+}
+
+.panah{
+    width: auto;
+    background-color:pink;
+    height: 60px;
+    padding-top: 20px;
+}
+
+.panah a{
+    padding: 10px 10px;
+}
+
+.header{
+    background-color:palevioletred;
+    width: auto;
+    height: 100px;
+}
+
+.header ul li{
+    display: inline-block;
+}
+
+.header ul li a{
+    display: inline-block;
+    padding: 40px 30px;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 25px;
+    color:maroon;
+}
+
+.active{
+    background-color: white;
+}
+
+.konten{
+    display: grid;
+    grid-template-columns: 15% 85%;
+}
+
+.konten h3{
+    color: maroon;
+}
+
+.konten1{
+    background-image: url(OIP.jpg);
+}
+
+.konten1 h3{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.konten1 ul li{
+    display: block;
+    padding: 25px 50px;
+}
+
+.konten1 ul li a{
+    color: palevioletred;
+}
+
+.konten2{
+   background-image: url(OIP.jpg);
+
+}
+
+.konten2 h3{
+    padding-top: 35px;
+    color: maroon;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    font-weight: bold;
+   
+}
+
+.konten2 h4{
+    padding-top: 25px;
+    color: maroon;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.biodata{
+    background-image: url(OIP.jpg);
+}
+
+.container{
+    background-image: url(OIP.jpg);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.bg-primary{
+    background-image: url(OIP.jpg);
+}
+
+.card-body label{
+    color: maroon;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.container h3{
+    color: maroon;
+    font-size: 70px;
+}
+
+.biodata h3{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.table{
+    border-collapse: collapse;
+    margin: auto;
+    width: 800px;
+}
+
+.table td{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.table tr td{
+    border: 2px solid palevioletred;
+    padding: 10px;
+}
+
+.table tr{
+    background-color: #f5fffa;
+}
+
+.table tr:nth-child(even){
+    background: palevioletred;
+}
+
+.biodata p{
+    padding: 30px;
+    line-height: 30px;
+    text-align: justify;
+}
+
+.footer{
+    background-color:palevioletred;
+    height: 50px;
+}
+
+.footer p{
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
